@@ -11,6 +11,10 @@
     "postreleasy": "vtex publish --verbose"
   },
   "dependencies": {
+    "vtex.condition-layout": "1.x",
+    "vtex.store-link": "0.x",
+    "vtex.modal-layout": "0.x",
+    "vtex.product-price": "1.x",
     "vtex.store-sitemap": "0.x",
     "vtex.store": "2.x",
     "vtex.store-header": "2.x",
