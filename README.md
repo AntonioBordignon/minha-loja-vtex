@@ -1,5 +1,3 @@
-# Course Origamid CSS Flexbox
-
 <h1 align="center"> <img src="docs/gif.gif"></h1>
 
 
